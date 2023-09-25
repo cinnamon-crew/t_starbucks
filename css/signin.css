@@ -1,3 +1,4 @@
+/* 로그인 화면  */
 .signin {
   margin-top: 120px;
   padding: 100px 0 150px;
@@ -7,6 +8,7 @@
   background-attachment: fixed;
   background-size: cover;
 }
+
 .signin h1 {
   color: #fff;
   font-size: 30px;
